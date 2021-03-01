@@ -1,0 +1,9 @@
+{
+  "name": "@feiye/discover",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "globby": "^11.0.2"
+  }
+}
